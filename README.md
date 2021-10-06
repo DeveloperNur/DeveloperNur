@@ -2,7 +2,7 @@
 ### WordPress Developer.
 ![WordPress Developer.](https://scontent.fdac34-1.fna.fbcdn.net/v/t1.6435-9/s960x960/239115717_880422922580598_6521793109480464105_n.png?_nc_cat=103&ccb=1-5&_nc_sid=e3f864&_nc_ohc=exkYisjb9YgAX_SUfJQ&_nc_ht=scontent.fdac34-1.fna&oh=c08effca3cc4d40f4024fde30f5f59ab&oe=61833D1D)
 
-I am a WordPress developer. I create websites by WordPress. I use themes and plugins to create a website. If you need e-commerce websites, blog websites, newspaper websites, landing pages, etc. you can contact me. 
+I am a WordPress developer. I create websites by WordPress. I use themes and plugins to create a website. If you need e-commerce websites, blog websites, newspaper websites, landing page , etc. you can contact me. 
  I can create a beautiful website with WordPress in a short time and at a low cost.
 
 Skills: HTML / CSS/PHP/ JavaScript/WordPress
