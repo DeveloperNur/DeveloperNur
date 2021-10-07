@@ -6,7 +6,7 @@
 
 ### I am a WordPress developer. I create websites by WordPress. I use themes and plugins to create a website. If you need e-commerce websites, blog websites, newspaper websites, landing page , etc. you can contact me. 
 ## I can create a beautiful website with WordPress in a short time and at a low cost.
-Gmail - nur01876049@gmail.com
+### Gmail - nur01876049@gmail.com
 
 
 ## Skills: HTML / CSS/PHP/ JavaScript/WordPress
